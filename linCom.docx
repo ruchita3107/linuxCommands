@@ -1,0 +1,13 @@
+Linux Notes:
+
+We are working in GUI interface but in production it will be all TUI interfce which is basic server look
+
+What is TUI?
+Tui- text user interface
+  
+Right click and open terminal
+  
+Basic Commands
+
+  whoami -gives username
+uname -n >>local user
