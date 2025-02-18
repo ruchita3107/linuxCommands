@@ -36,4 +36,7 @@ command --help //ls --help
 man man
 man command (man ls)
 info
+cd /urs/dir/
+
+NTP-Network type protocol
 
