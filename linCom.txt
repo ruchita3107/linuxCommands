@@ -9,5 +9,7 @@ Right click and open terminal
   
 Basic Commands
 
-  whoami -gives username
-uname -n >>local user
+whoami-gives username
+uname -n -local user
+ls /Home -shows the users present
+su - user -takes inside user
