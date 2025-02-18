@@ -2,5 +2,5 @@ stages:
 
 user
 bash shell
-kernel
-H/W
+kernel :is the core component that manages system resources and acts as a bridge between hardware and software.
+Hardware
